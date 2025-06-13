@@ -1,8 +1,6 @@
-# work-anniversary-email-automation
-Developed for CBT
-
-
 # Work Anniversary Email Automation
+
+Developed for CBT
 
 This project automates the detection of employee work anniversaries from a Google Sheet and sends personalized reminder or celebration emails based on the date.
 
